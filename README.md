@@ -19,4 +19,4 @@ Google Colab
 ## Results & Findings
 The model performed quite well with an overall accuracy of 81.30%.
 We observed that our model's loss exhibits step-like, repeating activity. It might be that the model observed recurrent behavior in the input data it received.
-Another useful finding was that the model manages to accurately predict 'laying' activity, But is confused between the activities such as 'walking upstairs' and 'walking downstairs'.
+Another useful finding was that the model manages to accurately predict the 'laying' activity, but is confused between the activities such as 'walking upstairs' and 'walking downstairs'.
