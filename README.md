@@ -1,9 +1,7 @@
 # Documentation
 
 ## Introduction
-This project sheds light on the fascinating realm of human activity recognition by harnessing the power of smartphone sensor data. This innovative approach leverages Bidirectional Long Short-Term Memory (BiLSTM) networks to predict a user's activities like walking, laying, standing, walking upstairs/downstairs and sitting as performed by the user.
-
-Dataset: 
+This project sheds light on the fascinating realm of human activity recognition by harnessing the power of smartphone sensor data. This innovative approach leverages Bidirectional Long Short-Term Memory (BiLSTM) network to predict a user's activities like walking, laying, standing, walking upstairs/downstairs and sitting as performed by the user. 
 
 ## Features
 This comprehensive project comprises four pivotal modules: Data Acquisition, Pre-processing, Feature Extraction, and Classification. 
