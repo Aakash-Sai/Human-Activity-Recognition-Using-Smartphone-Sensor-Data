@@ -4,11 +4,11 @@
 This project sheds light on the fascinating realm of human activity recognition by harnessing the power of smartphone sensor data. This innovative approach leverages Bidirectional Long Short-Term Memory (BiLSTM) network to predict a user's activities like walking, laying, standing, walking upstairs/downstairs and sitting as performed by the user. 
 
 ## Features
-This comprehensive project comprises four pivotal modules: Data Acquisition, Pre-processing, Feature Extraction, and Classification. 
-*The Data Acquisition module processes sampling signals obtained from the [UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones).
-*In the Pre-processing module the primary goal was to normalize and reduce noise from the data, ensuring that subsequent data mining algorithms yield accurate and reliable results.
-*The Feature Extraction module is dedicated to selecting the most relevant features and eliminating redundant data. We used the Fischer Score here.
-*The next and final module is the classification module where we use the data to classify it into activities such as standing, sitting, sleeping, and walking upstairs and downstairs using the BiLSTM algorithm.
+This comprehensive project comprises of four pivotal modules: Data Acquisition, Pre-processing, Feature Extraction, and Classification. 
+* The Data Acquisition module processes sampling signals obtained from the [UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones).
+* In the Pre-processing module the primary goal was to normalize and reduce noise from the data, ensuring that subsequent data mining algorithms yield accurate and reliable results.
+* The Feature Extraction module is dedicated to selecting the most relevant features and eliminating redundant data. We used the Fischer Score here.
+* The next and final module is the classification module where we use the data to classify it into activities such as standing, sitting, sleeping, and walking upstairs and downstairs using the BiLSTM algorithm.
 
 ## Technologies used
 Python
