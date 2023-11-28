@@ -1,6 +1,5 @@
-# Documentation
 
-## Introduction
+## Project Overview
 This project sheds light on the fascinating realm of human activity recognition by harnessing the power of smartphone sensor data. This innovative approach leverages Bidirectional Long Short-Term Memory (BiLSTM) network to predict a user's activities like walking, laying, standing, walking upstairs/downstairs and sitting as performed by the user. 
 
 ## Features
@@ -11,10 +10,10 @@ This comprehensive project comprises of four pivotal modules: Data Acquisition, 
 * The next and final module is the classification module where we use the data to classify it into activities such as standing, sitting, sleeping, and walking upstairs and downstairs using the BiLSTM algorithm.
 
 ## Technologies used
-Python <br />
-TensorFlow <br />
-Scikit Learn <br />
-Google Colab
+* Python 
+* TensorFlow 
+* Scikit Learn 
+* Google Colab
 
 ## Results & Findings
 The model performed quite well with an overall accuracy of 81.30%.
