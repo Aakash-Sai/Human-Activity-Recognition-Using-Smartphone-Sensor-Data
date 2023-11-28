@@ -9,7 +9,7 @@ This comprehensive project comprises of four pivotal modules: Data Acquisition, 
 * The Feature Extraction module is dedicated to selecting the most relevant features and eliminating redundant data. We used the Fischer Score here.
 * The next and final module is the classification module where we use the data to classify it into activities such as standing, sitting, sleeping, and walking upstairs and downstairs using the BiLSTM algorithm.
 
-## Technologies used
+## Tools & Technologies used
 * Python 
 * TensorFlow 
 * Scikit Learn 
